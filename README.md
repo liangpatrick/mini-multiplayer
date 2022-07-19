@@ -1,11 +1,6 @@
 # mini-multiplayer
 The goal of this project was to convert a simple single player game client using SDL libraries to a multiplayer client that communicates with a custom server in real time.
 
-Feature Additions:
-- Added scoreboard for current players
-- Added text to display top scorer of current session
-- If a player leaves a new player may take their position
-- Support for up to 8 concurrent players
 - Entire server side communication
 
 ## Requirements
